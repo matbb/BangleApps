@@ -1,0 +1,14 @@
+{
+  "id": "wid_reminder_periodic",
+  "name": "Periodic Reminder Widget",
+  "shortName":"Periodic Reminder Widget",
+  "version":"0.01",
+  "type": "widget",
+  "supports": ["BANGLEJS", "BANGLEJS2"],
+  "readme": "README.md",
+  "description": "Periodic reminder, togglable",
+  "tags": "reminder",
+  "storage": [
+    {"name":"reminder.wid.js","url":"widget.js"}
+  ]
+}
